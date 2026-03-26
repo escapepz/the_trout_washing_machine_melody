@@ -1,0 +1,10 @@
+{
+    "scripts": {
+        "clean": "pzstudio clean",
+        "build": "pzstudio clean && pzstudio build",
+        "watch": "pzstudio clean && pzstudio build && pzstudio watch",
+        "update": "pzstudio update",
+        "experimental:setup:vanilla": "mkdir .tmp & mklink /J \"%CD%\\.tmp\\vanilla\" \"%ProgramFiles(x86)%\\Steam\\steamapps\\common\\ProjectZomboid\\media\\lua\"",
+        "experimental:setup:nonsteam:samsung_washing_machine_melody": "mklink /J \"C:\\ZomboidClient1\\mods\\samsung_washing_machine_melody\" \"%CD%\\samsung_washing_machine_melody\""
+    }
+}

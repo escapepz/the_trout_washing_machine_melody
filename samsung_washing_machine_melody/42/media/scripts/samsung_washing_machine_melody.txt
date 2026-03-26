@@ -1,0 +1,22 @@
+module Base
+{
+    sound ClothingWasherFinishedMelody
+    {
+        category = Object,
+        clip
+        {
+            file = media/sound/samsung_washing_machine_melody.ogg,
+            distMax = 15,
+        }
+    }
+
+	sound ClothingWasherFinishedMelodyRemix
+    {
+        category = Object,
+        clip
+        {
+            file = media/sound/samsung_washing_machine_melody_remix.ogg,
+            distMax = 15,
+        }
+    }
+}

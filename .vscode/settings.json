@@ -1,0 +1,10 @@
+{
+    "extensions.ignoreRecommendations": false,
+    "files.associations": {
+        "*.txt": "ZedScripts"
+    },
+    "[lua]": {
+        "editor.defaultFormatter": "JohnnyMorganz.stylua"
+    },
+    "lua.debug.settings.luaVersion": "lua51"
+}

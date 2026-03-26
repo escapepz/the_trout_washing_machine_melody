@@ -1,0 +1,17 @@
+{
+    "$schema": "https://raw.githubusercontent.com/escapepz/project-zomboid-studio/refs/heads/b42.13.1/pzstudio.schema.json",
+    "title": "Samsung washing machine melody",
+    "authors": [],
+    "workshop": {
+        "id": 3692592085,
+        "visibility": "public",
+        "tags": ["Build 42", "Silly/Fun", "Audio"],
+        "excludes": []
+    },
+    "mods": {
+        "samsung_washing_machine_melody": {
+            "name": "Samsung washing machine melody",
+            "description": ""
+        }
+    }
+}
