@@ -1,6 +1,6 @@
 {
     "$schema": "https://raw.githubusercontent.com/escapepz/project-zomboid-studio/refs/heads/b42.13.1/pzstudio.schema.json",
-    "title": "Samsung washing machine melody",
+    "title": "The Trout Washing Machine Melody",
     "authors": [],
     "workshop": {
         "id": 3692592085,
@@ -9,8 +9,8 @@
         "excludes": []
     },
     "mods": {
-        "samsung_washing_machine_melody": {
-            "name": "Samsung washing machine melody",
+        "the_trout_washing_machine_melody": {
+            "name": "The Trout Washing Machine Melody",
             "description": ""
         }
     }

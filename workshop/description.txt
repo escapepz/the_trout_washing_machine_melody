@@ -1,2 +1,12 @@
-id=samsung_washing_machine_melody
-name=Samsung Washing Machine Melody (w Remix)
+Have remix version for combo washer dryer machine
+
+[i]
+This mod is a fan-made tribute and is not affiliated with or endorsed by Samsung Electronics.
+The melody "Die Forelle" is a public domain composition by Franz Schubert.
+[/i]
+
+[i]
+All custom remix elements used are sourced from open-internet assets for entertainment purposes only and belong to their respective creators.
+If any original creator of the remix wants this removed, please contact me.
+https://github.com/escapepz/the_trout_washing_machine_melody/issues
+[/i]
